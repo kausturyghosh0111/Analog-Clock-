@@ -17,3 +17,5 @@ Example:
 1) First we have selected the hour, minute, and second from HTML.
 2) To get the current time we have used the Date() object provided by the JavaScript. This will give the current seconds, minutes, and hours respectively.
 3) Now, we have got our hour, minute, and second, and we know that the clock rotates 360 degrees. So, we will convert to convert the rotation of the hands of the clock into degrees. The degree calculation is based on a simple unary method.
+
+https://analog-clock-kausturyghosh.netlify.app/
